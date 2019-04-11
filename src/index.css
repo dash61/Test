@@ -8,9 +8,6 @@ html, body {
   overflow: hidden;
   user-select: none;
   font-family: 'Raleway', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background: linear-gradient(135deg, #552299 0%, #222244 100%);
 }
 
@@ -30,4 +27,8 @@ code {
 }
 .content > div:nth-child(4) {
   background: linear-gradient(135deg, #ffff33 0%, #ff6600 100%);
+}
+
+.banner-bkgnd {
+  background: linear-gradient(135deg, #03a7e5 0%, #1c30be 100%);
 }
