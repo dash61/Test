@@ -9,7 +9,16 @@ Hello there! This is Code Hangar's React Developer application. If you are inter
 
 Have fun!
 
----
+
+
+## Screenshot
+
+![screenshot](https://imgur.com/JxYHwrr.png)
+
+
+
+## CreateReactApp Info
+
 
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
